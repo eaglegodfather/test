@@ -6,4 +6,4 @@
 // ini_set('display_errors', '1');
 
 echo phpinfo();
-echo "test1";
+echo "test 2test1";
